@@ -1,4 +1,4 @@
-# final-project-148
+# final-project-dsc148
 
 Data obtained from this link: https://www.kaggle.com/datasets/ealtman2019/credit-card-transactions?utm_source=chatgpt.com&select=User0_credit_card_transactions.csv.
 
